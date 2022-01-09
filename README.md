@@ -1,16 +1,17 @@
-### Hi there 👋
+<  Hi, I'm Rümeysa SARGIN > 
 
-<!--
-**rumsrgn/Rumsrgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![image](https://user-images.githubusercontent.com/96534670/148688410-962ef63f-9fe9-42ee-ab0f-d63111a28208.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+#I work on coding, web design.
+
+#My current qualification HTML,CSS          
+
+I will add JS and few more languages.            
+
+>> ![image](https://user-images.githubusercontent.com/96534670/148689268-3501f729-1331-47a5-a3b2-5de81d10974f.png)    ![image](https://user-images.githubusercontent.com/96534670/148689278-97fc60e2-01e7-4322-b186-17aeb74e51ec.png)  ![image](https://user-images.githubusercontent.com/96534670/148689295-077cc99d-f2f7-4bba-9af9-abeb84eb2247.png)
+
+
+
