@@ -1,8 +1,6 @@
 <  Hi, I'm Rümeysa SARGIN > 
 
 
-![image](https://user-images.githubusercontent.com/96534670/148688410-962ef63f-9fe9-42ee-ab0f-d63111a28208.png)
-
 #
 
 #I work on coding, web design.
