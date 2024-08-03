@@ -1,11 +1,9 @@
-<  Hi, I'm Rümeysa SARGIN > 
+<  Hey, I'm Rümeysa SARGIN /> 
 
+ 
+> I work on coding, web design.
 
-#
-
-#I work on coding, web design.
-
-#My current qualification HTML,CSS          
+> My current qualification HTML,CSS          
 
 I will add JS and few more languages.            
 
